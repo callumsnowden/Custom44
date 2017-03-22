@@ -1,7 +1,7 @@
 # Custom44
 Custom 44-key kbd.
 
-#Tools and Utilities
+# Tools and Utilities
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 - [TMK Firmware Builder](http://kb.sized.io/)
 - [Case Builder](http://builder.swillkb.com/)
